@@ -1,0 +1,62 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/icons8-mobile-50.png",
+      "title": "Mobile Development",
+      "description": "I have hands-on experience in native mobile app development for both Android and iOS platforms. Leveraging my skills in Java, Kotlin and Swift, I successfully helped craft robust applications that seamlessly integrate with the unique features of each operating system. After thorough testing, I published these apps on their respective app stores, reaching a wide audience of mobile users."
+    },
+    {
+      "id": "2",
+      "src": "./img/icons8-web-development-50.png",
+      "title": "Front End",
+      "description": "I have experience in front-end development, aiming to create engaging and responsive user interfaces for web applications. I have utilized both React and Vue.js, two powerful frameworks that enable seamless client-side experiences. These frameworks allow me to create dynamic and engaging user interfaces, ensuring seamless experiences for visitors."
+    },
+    {
+      "id": "3",
+      "src": "./img/icons8-unity-50.png",
+      "title": "Unity",
+      "description": "I specialize in creating applications that seamlessly run on many platforms through leveraging the power of Unity and C#. I have developed captivating games on the web that challenge players' minds, as well as convenient applications that run on both major mobile operating systems and make users' lives easier. With a passion for both development and creativity, I aim to create memorable experiences for users across platforms."
+    },
+    {
+      "id": "4",
+      "src": "./img/icons8-python-50.png",
+      "title": "Python Programming",
+      "description": "I specialize in Python development with expertise in data analysis, web scraping, web applications, and deep learning. My journey spans personal projects and university coursework, allowing me to create practical solutions and explore diverse domains."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/levelscene.png",
+      "title": "Turn & Slide (Puzzle Game)",
+      "description": "Created an online puzzle game in Unity (C#) that collects player statistics and stores them in a NoSQL cloud database. The stored data were used to train a machine learning algorithm in Python to recognize the cognitive style of a player, in order to find a way to adjust UX without human input.",
+      "link": "Play game (in Greek) - Ask for access here",
+      "url": "https://www.linkedin.com/in/sotirios-petsas/"
+    },
+    {
+      "id": "2",
+      "src": "./img/little-lemon-website.png",
+      "title": "Little Lemon website (front-end)",
+      "description": "Set up the front-end portion of a restaurant's website using only fundamental React and React Router. Website includes a welcome screen leading to a functional table reservation widget. As part of a challenge, this project was done in 48 hours.",
+      "link": "View In Github",
+      "url": "https://github.com/Sampets/little-lemon-repo"
+    },
+    {
+      "id": "3",
+      "src": "./img/little-lemon-android.png",
+      "title": "Little Lemon app (Android)",
+      "description": "Created an android app in Kotlin using Jetpack Compose. After an onboarding screen, the app fetches a list of dishes from an API and organizes them into a local SQL database. The user can then filter and search said dishes.",
+      "link": "View In Github",
+      "url": "https://github.com/Sampets/little-lemon-android"
+    },
+    {
+      "id": "4",
+      "src": "./img/leftoveroo.png",
+      "title": "Food Waste Market",
+      "description": "Helped create an interactive food marketplace using modern frameworks and technologies (Vue.js, Flask, MongoDB). Businesses can donate the food that is about to be discarded. Through a map, charitable organizations can reserve the food and pick it up after-hours.",
+      "link": "Website currently offline",
+      "url": ""
+    }
+  ]
+}
